@@ -1,5 +1,1 @@
-<script lang="ts">
-  export let data: PageData;
-</script>
-
-Hello
+<h1>Hello Test site</h1>
